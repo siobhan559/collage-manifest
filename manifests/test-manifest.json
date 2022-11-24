@@ -1,0 +1,139 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://siobhan559.github.io/collage-manifest/manifests/test-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Collage by Margaret Kaye",
+  "metadata" : [ {
+    "label" : "Artist",
+    "value" : "Margaret Kaye"
+  }, {
+    "label" : "Date",
+    "value" : [ {
+      "@value" : "1949",
+      "@language" : "en"
+    } ]
+  }, {
+    "label" : "Content",
+    "value" : "Collage"
+  } ],
+  "description" : [ {
+    "@value" : "Collage 'Lion in a Forest' of embroidered hessian with appliqué in wool, velveteen, cotton and net, made by Margaret Kaye, Great Britain, ca. 1949",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/4.0/",
+  "attribution" : "https://collections.vam.ac.uk/item/O367614/lion-in-a-forest-collage-margaret-kaye/info.json/lion-in-a-forest-collage-margaret-kaye/",
+  "sequences" : [ {
+    "@id" : "http://b0b6e42e-665c-4ad6-9c7a-5ab13504ac14",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://45169114-94e0-43c7-9119-f4f1bd6b9cf9",
+      "@type" : "sc:Canvas",
+      "label" : "Lion in a forest",
+      "height" : 2500,
+      "width" : 2100,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2d046fc5-5a4b-4f44-83aa-ce2fc1decc03",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/collage4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/collage4",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2500,
+          "width" : 2100
+        },
+        "on" : "http://45169114-94e0-43c7-9119-f4f1bd6b9cf9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://266512a6-0c25-485e-8b3f-f29d30c9f833",
+      "@type" : "sc:Canvas",
+      "label" : "Lion in a forest - lower quality",
+      "height" : 2500,
+      "width" : 1875,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://04108348-3aa4-430f-9c26-37d0356cee9f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/collage1_202211/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/collage1_202211",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2500,
+          "width" : 1875
+        },
+        "on" : "http://266512a6-0c25-485e-8b3f-f29d30c9f833"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://741c5d4d-1e11-448a-a5c7-a433a57643c1",
+      "@type" : "sc:Canvas",
+      "label" : "Lion in a forest - black and white",
+      "height" : 2500,
+      "width" : 1957,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://31ceefd7-7146-43ad-a6a1-73d8e3212d6c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/collage2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/collage2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2500,
+          "width" : 1957
+        },
+        "on" : "http://741c5d4d-1e11-448a-a5c7-a433a57643c1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://156e2b07-097e-40a1-bf6d-d3cbae82ea32",
+      "@type" : "sc:Canvas",
+      "label" : "Catalogue",
+      "height" : 2500,
+      "width" : 1868,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://58d28878-bc6b-4b80-aff6-9034af7827f9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/collage3_202211/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/collage3_202211",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2500,
+          "width" : 1868
+        },
+        "on" : "http://156e2b07-097e-40a1-bf6d-d3cbae82ea32"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
