@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lots of detail in the stitching",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lots of detail in the stitching</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/86322223",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-11-24T18:30:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669314604466",
+    "dcterms:modified" : "2022-11-24T18:30:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://siobhan559.github.io/collage-manifest/manifests/test-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1335,314,585,984"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1334.69376,314.12623h292.44035v0h292.44035v491.79694v491.79694h-292.44035h-292.44035v-491.79694z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9a4ef5ea-7a05-453b-8ecd-9cb79733ca37\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#54ff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://741c5d4d-1e11-448a-a5c7-a433a57643c1"
+    } ]
+  } ],
+  "@id" : "https://siobhan559.github.io/collage-manifest/annotations/collage3-annos.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
