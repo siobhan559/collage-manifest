@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The collage in a catalogue at the V&amp;A museum.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The collage in a catalogue at the V&amp;A museum.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/86322223",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-11-24T18:31:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669314663347",
+    "dcterms:modified" : "2022-11-24T18:31:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://siobhan559.github.io/collage-manifest/manifests/test-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=656,222,793,1018"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M656.26772,221.83274h396.66929v0h396.66929v508.87402v508.87402h-396.66929h-396.66929v-508.87402z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7f9d38fa-6581-4bc4-9700-85f7563933ee\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#54ff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://156e2b07-097e-40a1-bf6d-d3cbae82ea32"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Label reads: \"Lion in a forest\". Fabric collage by Margaret Kaye. Applique of wool, velveteen, cotton &amp; net on coarse hessian ground, embroidered with coloured silks, cotton, metallic braid &amp; sequins. English; c. 1949.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Label reads: \"Lion in a forest\". Fabric collage by Margaret Kaye. Applique of wool, velveteen, cotton &amp; net on coarse hessian ground, embroidered with coloured silks, cotton, metallic braid &amp; sequins. English; c. 1949.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/86322223",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-11-24T18:32:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669314724497",
+    "dcterms:modified" : "2022-11-24T18:33:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://siobhan559.github.io/collage-manifest/manifests/test-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=753,1248,567,114"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M752.89133,1247.79461h283.72727v0h283.72727v56.90909v56.90909h-283.72727h-283.72727v-56.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.32941,1,0],&quot;editable&quot;:true}\" id=\"rectangle_70f40dc7-3d72-43d4-991c-ff89a30ef00c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#54ff00\" stroke-width=\"7.27273\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://156e2b07-097e-40a1-bf6d-d3cbae82ea32"
+    } ]
+  } ],
+  "@id" : "https://siobhan559.github.io/collage-manifest/annotations/collage4-annos.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
