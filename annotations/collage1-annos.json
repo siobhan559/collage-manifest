@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kaye managed to use embroidery to give the lion an expression-ful face",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Kaye managed to use embroidery to give the lion an expression-ful face</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/86322223",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-11-24T18:29:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669314544873",
+    "dcterms:modified" : "2022-11-24T18:29:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://siobhan559.github.io/collage-manifest/manifests/test-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=688,1022,580,588"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M980.95895,1021.71892l102.10909,26.18182l78.54545,49.74545l75.92727,56.29091l30.10909,53.67273l-7.85455,89.01818l-34.03636,77.23636l-34.03636,53.67273l-45.81818,66.76364l-92.94545,52.36364l-91.63636,62.83636l-85.09091,-20.94545l-81.16364,-45.81818l-61.52727,-85.09091l-26.18182,-77.23636l-19.63636,-94.25455l13.09091,-121.74545l11.78182,-41.89091l49.74545,-56.29091l73.30909,-19.63636l89.01818,-15.70909l31.41818,-3.92727l27.49091,-5.23636z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_bf2d15bf-e92c-488e-84ee-c1f1a3004edf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#54ff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://45169114-94e0-43c7-9119-f4f1bd6b9cf9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This section shows the wealth of material used - hessian, felt, lace and embroidery",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This section shows the wealth of material used - hessian, felt, lace and embroidery</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/86322223",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-11-24T18:25:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669314334515",
+    "dcterms:modified" : "2022-11-24T18:25:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://siobhan559.github.io/collage-manifest/manifests/test-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=918,257,916,317"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M917.92873,257.09423h458.13455v0h458.13455v158.40509v158.40509h-458.13455h-458.13455v-158.40509z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8cf32168-78c9-41ed-b3f8-56c0ab48fd19\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#54ff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://45169114-94e0-43c7-9119-f4f1bd6b9cf9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The artist embroidered her name into the piece- an unusual signature.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The artist embroidered her name into the piece- an unusual signature.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/86322223",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-11-24T18:24:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669314259063",
+    "dcterms:modified" : "2022-11-24T18:24:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://siobhan559.github.io/collage-manifest/manifests/test-manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=497,230,207,112"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M496.8189,230.28346h103.3622v0h103.3622v56.11811v56.11811h-103.3622h-103.3622v-56.11811z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ce0b00b4-c0e3-49a1-8dd6-55d6c51dae47\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#54ff00\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://45169114-94e0-43c7-9119-f4f1bd6b9cf9"
+    } ]
+  } ],
+  "@id" : "https://siobhan559.github.io/collage-manifest/annotations/collage1-annos.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
