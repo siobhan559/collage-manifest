@@ -3,6 +3,11 @@
   "@id" : "https://siobhan559.github.io/collage-manifest/manifests/test-manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Collage by Margaret Kaye",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/86322223/acc9bc4a2c71bd049cd72e5406a45589/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Artist",
     "value" : "Margaret Kaye"
@@ -53,6 +58,11 @@
           "width" : 2100
         },
         "on" : "http://45169114-94e0-43c7-9119-f4f1bd6b9cf9"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://siobhan559.github.io/collage-manifest/annotations/collage1-annos.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -106,6 +116,11 @@
         },
         "on" : "http://741c5d4d-1e11-448a-a5c7-a433a57643c1"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://siobhan559.github.io/collage-manifest/annotations/collage3-annos.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://156e2b07-097e-40a1-bf6d-d3cbae82ea32",
@@ -131,6 +146,11 @@
           "width" : 1868
         },
         "on" : "http://156e2b07-097e-40a1-bf6d-d3cbae82ea32"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://siobhan559.github.io/collage-manifest/annotations/collage4-annos.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
