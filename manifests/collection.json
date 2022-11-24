@@ -1,0 +1,13 @@
+{
+  "id" : "https://siobhan559.github.io/collage-manifest/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in siobhan559/collage-manifest project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://siobhan559.github.io/collage-manifest/manifests/test-manifest.json",
+    "label" : "Collage by Margaret Kaye"
+  } ]
+}
