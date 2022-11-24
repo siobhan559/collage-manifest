@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://siobhan559.github.io/collage-manifest/annotations/collage1-annos.json" ],
+  "@id" : "https://siobhan559.github.io/collage-manifest/annotations/collection.json",
+  "label" : "All annotations loaded in siobhan559/collage-manifest project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
